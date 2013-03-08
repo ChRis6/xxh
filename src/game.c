@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <allegro5/allegro.h>
 #include "xxh_engine.h"
 
 
